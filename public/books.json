@@ -1,0 +1,242 @@
+[
+  {
+    "id": 0,
+    "title": "JavaScript. Подробное руководство. 6-е издание",
+    "author": "Дэвид Флэнаган",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/24499998-devid-flenagan-javascript-podrobnoe-rukovodstvo-6-e-izdanie-24499998.jpg",
+    "price": 830,
+    "rating": 3.9
+  },
+  {
+    "id": 1,
+    "title": "Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5",
+    "author": "Робин Никсон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/8920342-robin-nikson-sozdaem-dinamicheskie-veb-sayty-s-pomoschu-php-mysql-javascript-css-i-html5.jpg",
+    "price": 1190,
+    "rating": 4.1
+  },
+  {
+    "id": 2,
+    "title": "JavaScript. Шаблоны",
+    "author": "Стоян Стефанов",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/24500294-stoyan-stefanov-2-javascript-shablony-24500294.jpg",
+    "price": 390,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "title": "Основы разработки веб-приложений",
+    "author": "Сэмми Пьюривал",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/12059801-semmi-purival-osnovy-razrabotki-veb-prilozheniy-12059801.jpg",
+    "price": 299,
+    "rating": 3.4
+  },
+  {
+    "id": 4,
+    "title": "React.js. Быстрый старт",
+    "author": "Стоян Стефанов",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/24398500-stoyan-stefanov-2-react-js-bystryy-start-24398500.jpg",
+    "price": 679,
+    "rating": 3.5
+  },
+  {
+    "id": 5,
+    "title": "Изучаем Node. Переходим на сторону сервера",
+    "author": "Шелли Пауэрс",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/6376456-shelli-pauers-izuchaem-node-js.jpg",
+    "price": 529,
+    "rating": 3.4
+  },
+  {
+    "id": 6,
+    "title": "Node.js в действии. 2-е издание",
+    "author": "Брэдли Мек, Алекс Янг, Майк Кантелон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/34961606-aleks-yang-node-js-v-deystvii-2-e-izdanie-34961606.jpg",
+    "price": 550,
+    "rating": 4.0
+  },
+  {
+    "id": 7,
+    "title": "Angular и TypeScript. Сайтостроение для профессионалов",
+    "author": "Яков Файн, Антон Моисеев",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/33573050-anton-moiseev-angular-i-typescript-saytostroenie-dlya-professiona-33573050.jpg",
+    "price": 550,
+    "rating": 3.5
+  },
+  {
+    "id": 8,
+    "title": "{Вы не знаете JS} ES6 и не только",
+    "author": "Кайл Симпсон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/39123625-kayl-simpson-es6-i-ne-tolko-39123625.jpg",
+    "price": 399,
+    "rating": 4.2
+  },
+  {
+    "id": 9,
+    "title": "{Вы не знаете JS} Асинхронная обработка и оптимизация",
+    "author": "Кайл Симпсон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/43123823-kayl-simpson-vy-ne-znaete-js-asinhronnaya-obrabotka-i-optimizaciy-43123823.jpg",
+    "price": 499,
+    "rating": 5.0
+  },
+  {
+    "id": 10,
+    "title": "{Вы не знаете JS} Типы и грамматические конструкции",
+    "author": "Кайл Симпсон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/43123815-kayl-simpson-vy-ne-znaete-js-tipy-i-grammaticheskie-konstrukcii-43123815.jpg",
+    "price": 499,
+    "rating": 4.5
+  },
+  {
+    "id": 11,
+    "title": "{Вы не знаете JS} Замыкания и объекты",
+    "author": "Кайл Симпсон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/43123803-kayl-simpson-vy-ne-znaete-js-zamykaniya-i-obekty-43123803.jpg",
+    "price": 499,
+    "rating": 4.8
+  },
+  {
+    "id": 12,
+    "title": "Как устроен JavaScript",
+    "author": "Дуглас Крокфорд",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/48613309-duglas-krokford-kak-ustroen-javascript-48613309.jpg",
+    "price": 550,
+    "rating": 5.0
+  },
+  {
+    "id": 13,
+    "title": "Выразительный JavaScript. Современное веб-программирование. 3-е издание",
+    "author": "Марейн Хавербеке",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/50447564-mareyn-haverbeke-vyrazitelnyy-javascript-sovremennoe-veb-programm-50447564.jpg",
+    "price": 699,
+    "rating": 5.0
+  },
+  {
+    "id": 14,
+    "title": "JavaScript. Освой на примерах",
+    "author": "Виктор Вахтуров",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/649135-viktor-vahturov-javascript-osvoy-na-primerah.jpg",
+    "price": 135,
+    "rating": 3.6
+  },
+  {
+    "id": 15,
+    "title": "JavaScript и AJAX в Web-дизайне",
+    "author": "Владимир Дронов",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/6991132-vladimir-dronov-javascript-i-ajax-v-web-dizayne.jpg",
+    "price": 319,
+    "rating": 5.0
+  },
+  {
+    "id": 17,
+    "title": "Рефакторинг кода на JavaScript: улучшение проекта существующего кода. 2-е издание",
+    "author": "Мартин Фаулер",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/48613758-martin-fauler-refaktoring-koda-na-javascript-uluchshenie-proekta-48613758.jpg",
+    "price": 1500,
+    "rating": 3.0
+  },
+  {
+    "id": 18,
+    "title": "Разработка веб-приложений в ReactJS",
+    "author": "Райан Вайс, Адам Хортон",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/22880082-a-horton-razrabotka-veb-prilozheniy-v-reactjs-22880082.jpg",
+    "price": 559,
+    "rating": 4.0
+  },
+  {
+    "id": 19,
+    "title": "Bootstrap в примерах",
+    "author": "Сильвио Морето",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/22780728-silvio-moreto-bootstrap-v-primerah-22780728.jpg",
+    "price": 559,
+    "rating": 4.1
+  },
+  {
+    "id": 20,
+    "title": "CoffeeScript. Второе дыхание JavaScript",
+    "author": "Марк Бейтс",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/6114439-mark-beyts-coffeescript-vtoroe-dyhanie-javascript-6114439.jpg",
+    "price": 319,
+    "rating": 3.7
+  },
+  {
+    "id": 21,
+    "title": "Сайт на AJAX под ключ. Готовое решение для интернет-магазина",
+    "author": "Виктор Петин",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/5005373-v-petin-sayt-na-ajax-pod-kluch-gotovoe-reshenie-dlya-internet-magazina-2.jpg",
+    "price": 255,
+    "rating": 4.2
+  },
+  {
+    "id": 22,
+    "title": "jQuery. Сборник рецептов",
+    "author": "Геннадий Самков",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/4984838-gennadiy-samkov-jquery-sbornik-receptov.jpg",
+    "price": 223,
+    "rating": 4.0
+  },
+  {
+    "id": 23,
+    "title": "Визуализация данных с помощью библиотеки D3.js 4.x",
+    "author": "Свизек Теллер, Эндрю Рининсланд",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/27066920-svizek-teller-vizualizaciya-dannyh-s-pomoschu-biblioteki-d3-js-4-x-27066920.jpg",
+    "price": 559,
+    "rating": 3.9
+  },
+  {
+    "id": 24,
+    "title": "HTML, скрипты и стили (4-е издание)",
+    "author": "Вадим Дунаев",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/19213996-vadim-dunaev-html-skripty-i-stili-4-e-izdanie-19213996.jpg",
+    "price": 519,
+    "rating": 3.0
+  },
+  {
+    "id": 25,
+    "title": "(Х)HTML, скрипты и стили",
+    "author": "Вадим Дунаев",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/2902567-vadim-dunaev-h-html-skripty-i-stili-samoe-neobhodimoe.jpg",
+    "price": 215,
+    "rating": 2.4
+  },
+  {
+    "id": 26,
+    "title": "Сценарии для Web-сайта. PHP и JavaScript",
+    "author": "Вадим Дунаев",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/6988811-vadim-dunaev-scenarii-dlya-web-sayta-php-i-javascript-2.jpg",
+    "price": 239,
+    "rating": 3.8
+  },
+  {
+    "id": 27,
+    "title": "HTML, JavaScript, PHP и MySQL. Джентльменский набор Web-мастера (3-е издание)",
+    "author": "Николай Прохоренок",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/4986832-n-prohorenok-html-javascript-php-i-mysql-dzhentlmenskiy-nabor-web-mastera-3-e-izdanie-4986832.jpg",
+    "price": 335,
+    "rating": 2.2
+  },
+  {
+    "id": 28,
+    "title": "Погружение в HTML5",
+    "author": "Марк Пилгрим",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/5019814-mark-pilgrim-pogruzhenie-v-html5-2.jpg",
+    "price": 151,
+    "rating": 4.2
+  },
+  {
+    "id": 29,
+    "title": "JavaScript на примерах",
+    "author": "Александр Климов",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/6990126-aleksandr-klimov-javascript-na-primerah.jpg",
+    "price": 135,
+    "rating": 3.4
+  },
+  {
+    "id": 30,
+    "title": "Самоучитель JavaScript",
+    "author": "Марина Дмитриева",
+    "image": "https://cdncv1.litres.ru/pub/c/pdf-kniga/cover_415/641085-marina-dmitrieva-samouchitel-javascript.jpg",
+    "price": 111,
+    "rating": 3.9
+  }
+]
